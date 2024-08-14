@@ -1,0 +1,12 @@
+# Exclude Python packages
+venv/
+esrgan_env/
+
+# Exclude data files
+data/
+
+# Exclude other common files
+__pycache__/
+*.pyc
+*.log
+*.tmp
